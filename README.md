@@ -1,4 +1,4 @@
-# BIOS512-assignments
+# BIOS512
 
 [link to NBViewer](https://nbviewer.jupyter.org/github/jkim43/BIOS512-assignments/tree/master/)
 
