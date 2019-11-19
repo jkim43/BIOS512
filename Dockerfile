@@ -1,4 +1,6 @@
-FROM rocker/binder:3.6.0
+FROM jupyter/r-notebook
+
+RUN conda isntall -c conda-forge r-tidyr==1.0.0
 
 ARG NB_USER
 ARG NB_UID
