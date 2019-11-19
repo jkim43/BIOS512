@@ -1,6 +1,6 @@
 FROM jupyter/r-notebook
 
-RUN conda isntall -c conda-forge r-tidyr==1.0.0
+RUN conda install -c conda-forge r-tidyr==1.0.0
 
 ARG NB_USER
 ARG NB_UID
